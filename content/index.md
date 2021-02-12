@@ -4,9 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Hi, I'm Stackbit Exto Portfolio Theme.
+    title: Hi, I'm Rae.
     content: |-
-      This section can contain a subtitle or tagline. The recommended length is one to three sentences, but can be changed as you prefer.
+      I'm a software engineer and worker-owner at Throneless Tech, a social justice-focused tech collective.
     actions:
       - label: Let's talk
         url: /contact
@@ -16,7 +16,7 @@ sections:
     layout_style: mosaic
     title: Recent Work
     subtitle: >-
-      An optional subtitle of the section
+      WIP, projects coming soon
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
@@ -24,80 +24,44 @@ sections:
     type: section_grid
     title: What We Do
     subtitle: >-
-      An optional subtitle of the section
+      WIP, services coming soon
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Full stack web development
         content: |-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla.
-      - title: Service Title
+          Along with Throneless, we pride ourselves on complete, accessible, responsive work that is long lasting and durable for causes we believe in. We’ll work with you to create the right look and feel for your site or app, valuing your knowledge of your cause and brand with our knowledge of design and code.
+      - title: Software engineering
         content: |-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt ut tellus.
-      - title: Service Title
+          Like our website work, our software reflects our values. We build carefully and thoughtfully to create applications that are easy to use and effective.
+      - title: Activism
         content: |-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis, interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin.
-      - title: Service title
-        content: |-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - section_id: testimonials
-    type: section_testimonials
-    title: Testimonials
-    subtitle: >-
-      An optional subtitle of the section
-    col_number: three
-    testimonials:
-      - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
-        avatar_alt: Sean Salazar's photo
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla.
-      - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
-        avatar_alt: Aubrey Hoover's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
-        avatar_alt: Deegan Wallace's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis, interdum ligula vel, pretium diam.
-  - section_id: latest-posts
-    type: section_posts
-    title: Latest from the Blog
-    subtitle: >-
-      An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-    - label: View Blog
-      url: blog
-      style: button
+          Throneless cooperators are activists and organizers who’ve done work on a variety of issues, including reproductive justice, food justice, gender parity, racial equity and internet freedom. We care as deeply about building responsible, accessible software and websites as we do about the issues and causes we’re building for.
 seo:
-  title: Stackbit Exto Theme
-  description: The preview of the Exto theme
-  extra:
+  title: Rae Gaines
+  description: A personal portfolio site for Rae Gaines
+  meta:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: Stackbit Exto Theme
+      value: Rae gaines
       keyName: property
     - name: og:description
-      value: The preview of the Exto theme
+      value: A personal portfolio site for Rae Gaines
       keyName: property
     - name: og:image
-      value: images/exto_preview.png
+      value: images/audio_bot.jpg
       keyName: property
       relativeUrl: true
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Stackbit Exto Theme
+      value: Rae Gaines
     - name: twitter:description
-      value: The preview of the Exto theme
+      value: A personal portfolio site for Rae Gaines
     - name: twitter:image
-      value: images/exto_preview.png
+      value: images/images/audio_bot.jpg
       relativeUrl: true
 layout: advanced
 ---

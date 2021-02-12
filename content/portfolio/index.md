@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 subtitle: >-
-  This is an optional subtitle for the portfolio page.
+  Some of the projects I have worked on. Under construction, check back soon!
 layout_style: mosaic
 seo:
   title: Portfolio

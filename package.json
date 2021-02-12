@@ -1,7 +1,7 @@
 {
-  "name": "exto",
+  "name": "rae-site-21",
   "version": "1.0.0",
-  "description": "A portfolio theme with a blog for Stackbit",
+  "description": "Personal portfolio website",
   "main": "public/index.html",
   "scripts": {
     "build": "unibit build",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stackbithq/stackbit-theme-exto"
+    "url": "git+https://github.com/rudietuesdays/rae-site-21"
   },
   "author": "Stackbit",
-  "license": "ISC",
+  "license": "GNU GENERAL PUBLIC LICENSE",
   "bugs": {
-    "url": "https://github.com/stackbithq/stackbit-theme-exto/issues"
+    "url": "https://github.com/rudietuesdays/rae-site-21/issues"
   },
-  "homepage": "https://docs.stackbit.com/unibit/",
+  "homepage": "https://raegaines.com",
   "dependencies": {
     "@stackbit/unibit": "~0.1.11",
     "kind-of": "^6.0.3",

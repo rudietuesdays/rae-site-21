@@ -1,12 +1,12 @@
 ---
-title: About Us
+title: About
 subtitle: >-
-  This is a short page about us and our work.
+  Hi! I'm Rae.
 image: images/about.jpg
-image_alt: A man taking a picture
+image_alt: ""
 seo:
   title: About Us
-  description: This is the about us page
+  description: About Rae
   extra:
     - name: og:type
       value: website
@@ -15,7 +15,7 @@ seo:
       value: About Us
       keyName: property
     - name: og:description
-      value: This is the about us page
+      value: About Rae
       keyName: property
     - name: og:image
       value: images/about.jpg
@@ -26,17 +26,11 @@ seo:
     - name: twitter:title
       value: About Us
     - name: twitter:description
-      value: This is the about us page
+      value: About Rae
     - name: twitter:image
       value: images/about.jpg
       relativeUrl: true
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+I'm a software engineer and worker-owner at Throneless Tech, a social justice-focused tech collective. Head to [our website](https://throneless.tech) for more info or to hire us!

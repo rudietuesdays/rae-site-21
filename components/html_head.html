@@ -6,7 +6,7 @@
 {% if page.params.seo.robots %}
 <meta name="robots" content="{{ page.params.seo.robots | join(',') }}">
 {% endif %}
-{% for meta in page.params.seo.extra %}
+{% for meta in page.params.seo.meta %}
   {% set key_name = meta.keyName | default('name', true) %}
   {% if meta.relativeUrl %}
     {% if site.params.domain %}
@@ -19,7 +19,7 @@
     <meta {{ attribute(key_name, meta.name) }} content="{{ meta.value }}">
   {% endif %}
 {% endfor %}
-<link href="https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ 'css/main.css' | relative_url }}">
 {% if site.params.favicon %}
 <link rel="icon" href="{{ site.params.favicon | relative_url }}">
