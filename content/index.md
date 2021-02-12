@@ -16,27 +16,27 @@ sections:
     layout_style: mosaic
     title: Recent Work
     subtitle: >-
-      WIP, projects coming soon
+      WIP, more projects coming soon
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: What I Do
     subtitle: >-
-      WIP, services coming soon
-    col_number: two
+      Services and values I offer
+    col_number: three
     is_numbered: true
     grid_items:
       - title: Full stack web development
         content: |-
-          Along with Throneless, we pride ourselves on complete, accessible, responsive work that is long lasting and durable for causes we believe in. We’ll work with you to create the right look and feel for your site or app, valuing your knowledge of your cause and brand with our knowledge of design and code.
+          Along with my team at Throneless, I pride myself on complete, accessible, responsive work that is long lasting and durable for causes I believe in. I work with clients to create the right look and feel for their site or app, valuing their knowledge of their cause and brand with my knowledge of systems and code.
       - title: Software engineering
         content: |-
-          Like our website work, our software reflects our values. We build carefully and thoughtfully to create applications that are easy to use and effective.
+          Like my website work, my software reflects my values. I build carefully and thoughtfully to create applications that are easy to use and effective. My development and engineering work is mostly in JavaScript and Ruby, with a bit of Python now and then.
       - title: Activism
         content: |-
-          Throneless cooperators are activists and organizers who’ve done work on a variety of issues, including reproductive justice, food justice, gender parity, racial equity and internet freedom. We care as deeply about building responsible, accessible software and websites as we do about the issues and causes we’re building for.
+          I am an activist and organizer who has done work on a variety of issues, including reproductive justice, food justice, gender parity, racial equity, internet freedom and most recently, mutual aid. I care as deeply about building responsible, accessible software and websites as I do about the issues and causes I’m building for.
 seo:
   title: Rae Gaines
   description: A personal portfolio site for Rae Gaines

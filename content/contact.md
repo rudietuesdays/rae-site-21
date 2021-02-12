@@ -5,7 +5,7 @@ sections:
   - section_id: contact-form
     type: section_form
     content: |-
-      Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [rae@throness.tech](mailto:rae@throneless.tech).
+      Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send me an email at [rae@throness.tech](mailto:rae@throneless.tech).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -24,8 +24,9 @@ sections:
         label: Subject
         default_value: Please select
         options:
+          - Work inquiry
+          - Activism inquiry
           - Error on the site
-          - Sponsorship
           - Other
       - input_type: textarea
         name: message
@@ -36,7 +37,7 @@ sections:
         label: I understand that this form is storing my submitted information so I can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
+  title: Contact Rae
   description: This is the contact page
   extra:
     - name: og:type
