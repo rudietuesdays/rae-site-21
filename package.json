@@ -20,7 +20,7 @@
   },
   "homepage": "https://raegaines.com",
   "dependencies": {
-    "@stackbit/unibit": "~0.1.11",
+    "@stackbit/unibit": "^0.1.32",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.19",
     "minimist": "^1.2.5",
