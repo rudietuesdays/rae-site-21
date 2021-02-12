@@ -5,14 +5,14 @@ subtitle: >-
 image: images/about.jpg
 image_alt: ""
 seo:
-  title: About Us
+  title: About Rae
   description: About Rae
   extra:
     - name: og:type
       value: website
       keyName: property
     - name: og:title
-      value: About Us
+      value: About Rae
       keyName: property
     - name: og:description
       value: About Rae
@@ -24,7 +24,7 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: About Us
+      value: About Rae
     - name: twitter:description
       value: About Rae
     - name: twitter:image
