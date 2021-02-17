@@ -36,7 +36,7 @@ sections:
           Like my website work, my software reflects my values. I build carefully and thoughtfully to create applications that are easy to use and effective. My development and engineering work is mostly in JavaScript and Ruby, with a bit of Python now and then.
       - title: Activism
         content: |-
-          I am an activist and organizer who has done work on a variety of issues, including reproductive justice, food justice, gender parity, racial equity, internet freedom and most recently, mutual aid. I care as deeply about building responsible, accessible software and websites as I do about the issues and causes I’m building for.
+          I am an activist and organizer who has done work on a variety of issues, including reproductive justice, gender parity, racial equity, internet freedom and most recently, mutual aid. I care as deeply about building responsible, accessible software and websites as I do about the issues and causes I’m building for.
 seo:
   title: Rae Gaines
   description: A personal portfolio site for Rae Gaines
