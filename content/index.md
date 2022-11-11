@@ -16,7 +16,7 @@ sections:
     layout_style: mosaic
     title: Recent Work
     subtitle: >-
-      WIP, more projects coming soon
+      Some projects I've worked on.
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio

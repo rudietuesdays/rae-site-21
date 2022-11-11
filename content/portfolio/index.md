@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 subtitle: >-
-  Some of the projects I have worked on. Under construction, check back soon!
+  A sample of the projects I've planned, coded, built, and shipped.
 layout_style: mosaic
 seo:
   title: Portfolio
